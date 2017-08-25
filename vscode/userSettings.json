@@ -22,7 +22,7 @@
         "workspace.xml"
     ],
     "folder-indexing.searchResultMaxSize": 1000,
-    "search.useIgnoreFilesByDefault": true,
+    "search.useIgnoreFilesByDefault": true,``
     "search.exclude": {
         "**/node_modules": true,
         "**/bower_components": true,
