@@ -1,0 +1,15 @@
+abusaidm.html-snippets
+akamud.vscode-javascript-snippet-pack
+alefragnani.project-manager
+christian-kohler.path-intellisense
+file-icons.file-icons
+Hridoy.backbone-js-snippets
+ioanaapetrei.backbone-js-snippets
+michelemelluso.code-beautifier
+mohsen1.prettify-json
+mrmlnc.vscode-less
+nwhatt.chai-snippets
+PKief.material-icon-theme
+rafamel.subtle-brackets
+viablelab.bracket-padder
+waderyan.gitblame

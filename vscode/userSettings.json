@@ -1,37 +1,29 @@
 {
-    "workbench.welcome.enabled": false,
+    
     "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\bash.exe",
     "window.zoomLevel": 0,
     "editor.cursorStyle": "block",
     // "editor.fontFamily": "ProFont for Powerline",
     // "editor.fontFamily": "Meslo LG S for Powerline",
     // "editor.fontFamily": "Linux Biolinum G",
-    "editor.fontFamily": "Inconsolata for Powerline BoldForPowerline",
+    // "editor.fontFamily": "Inconsolata for Powerline BoldForPowerline",
     // "editor.fontFamily": "Portico Rounded",
+    "editor.fontFamily": "Hack",
+    "editor.fontWeight": "bold",
     "editor.tabCompletion": true,
+    "editor.fontSize": 16,
+    "editor.mouseWheelZoom": true,
     "editor.cursorBlinking": "expand",
-    "editor.cursorStyle": "block",
-    "folder-indexing.exclude": [
-        "*\\bin\\*",
-        "*\\obj\\*",
-        "*\\.svn\\*",
-        "*\\.git\\*",
-        "*.dll",
-        "*.exe",
-        "*.spec.js",
-        "workspace.xml"
-    ],
-    "folder-indexing.searchResultMaxSize": 1000,
-    "search.useIgnoreFilesByDefault": true,``
+    "search.useIgnoreFilesByDefault": true,
     "search.exclude": {
         "**/node_modules": true,
         "**/bower_components": true,
         "*.xml": true,
-        "*.spec.js":true,
+        "*.spec.js": true,
         "*.min.js": true,
         "*.min.*": true,
-        "*.html": true,
-        ".gitignore": true,
+        "*doc*": true,
+        ".gitignore": true
     },
     "extensions.ignoreRecommendations": true,
     "workbench.colorCustomizations": {
@@ -51,5 +43,26 @@
         "themeColours": "Default"
     },
     "workbench.iconTheme": "eq-material-theme-icons",
-    "workbench.colorTheme": "Material Theme"
+    "eslint.enable": false,
+    "workbench.colorTheme": "Default High Contrast",
+    "editor.matchBrackets": false,
+    "material-icon-theme.showUpdateMessage": false,
+    "typescript.format.enable": false,
+    "typescript.validate.enable": false,
+    "typescript.check.npmIsInstalled": false,
+    "typescript.format.insertSpaceAfterCommaDelimiter": false,
+    "typescript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "typescript.format.insertSpaceBeforeAndAfterBinaryOperators": false,
+    "typescript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+    "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "workbench.panel.location": "right",
+    "subtleBrackets.styles": { 
+        "global": { 
+            "borderColor": "white",
+            "borderWidth": "4px"
+        }
+    },
+    "editor.smoothScrolling": true,
+    "terminal.integrated.scrollback": 7000,
 }
