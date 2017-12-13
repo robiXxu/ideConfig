@@ -1,7 +1,7 @@
 {
     
     "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\bash.exe",
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "editor.cursorStyle": "block",
     // "editor.fontFamily": "ProFont for Powerline",
     // "editor.fontFamily": "Meslo LG S for Powerline",
@@ -37,14 +37,7 @@
         "progressBar.background": "#E57373",
         "pickerGroup.foreground": "#E57373"
     },
-    "materialTheme.cache.workbench.settings": {
-        "accent": "Red",
-        "accentPrevious": "Graphite",
-        "themeColours": "Default"
-    },
-    "workbench.iconTheme": "eq-material-theme-icons",
-    "eslint.enable": false,
-    "workbench.colorTheme": "Default High Contrast",
+    "workbench.colorTheme": "Ayu Mirage Mod",
     "editor.matchBrackets": false,
     "material-icon-theme.showUpdateMessage": false,
     "typescript.format.enable": false,
@@ -65,4 +58,10 @@
     },
     "editor.smoothScrolling": true,
     "terminal.integrated.scrollback": 7000,
+    "typescript.autoImportSuggestions.enabled": false,
+    "typescript.quickSuggestionsForPaths": false,
+    "workbench.startupEditor": "welcomePage",
+    "php.executablePath": "C:\\xampp\\php\\php.exe",
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "projectManager.groupList": false,
 }
